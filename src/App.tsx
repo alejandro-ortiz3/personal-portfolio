@@ -224,7 +224,7 @@ const Experience = () => (
           <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4 transition-colors duration-500">Education</h2>
           <div className="space-y-2">
             <p className="text-lg font-medium text-gray-900 dark:text-white transition-colors duration-500">Northeastern University</p>
-            <p className="text-gray-600 dark:text-slate-300 transition-colors duration-500">Bachelor of Science in Computer Science</p>
+            <p className="text-gray-600 dark:text-slate-300 transition-colors duration-500">Bachelor of Arts in Computer Science</p>
             <div className="flex items-center gap-2 text-gray-500 dark:text-slate-400 transition-colors duration-500">
               <Calendar size={16} />
               <span className="text-sm">Expected Graduation: May 2028</span>
